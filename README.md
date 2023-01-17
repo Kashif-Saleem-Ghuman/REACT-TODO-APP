@@ -4,9 +4,7 @@
 
   <img src="./src/images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
+  <h3><b>Microverse</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -111,7 +109,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kashif-Saleem-Ghuman/To-do-list-by-Kashif/issues).
+Feel free to check the [issues page](https://github.com/Kashif-Saleem-Ghuman/REACT-TODO-APP/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +121,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-[React](https://reactjs.org/))
+[React](https://reactjs.org/)
 
 [Tutorial](https://ibaslogic.com/react-tutorial-for-beginners/)
 
