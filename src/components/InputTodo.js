@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { Component } from "react"
 
 class InputTodo extends Component {
@@ -13,7 +14,7 @@ class InputTodo extends Component {
     return (
       <form>
         <input type="text" placeholder="Add Todo..." value={this.state.title} onChange={this.onChange} />
-        <button>Submit</button>
+        <button type="submit">Submit</button>
       </form>
     )
   }
