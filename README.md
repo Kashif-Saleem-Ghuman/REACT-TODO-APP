@@ -132,7 +132,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Kashif-Saleem-Ghuman/To-do-list-by-Kashif/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/Kashif-Saleem-Ghuman/REACT-TODO-APP/blob/dev/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
