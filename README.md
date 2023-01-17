@@ -123,7 +123,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-[React](https://reactjs.org/))
+[React](https://reactjs.org/)
 
 [Tutorial](https://ibaslogic.com/react-tutorial-for-beginners/)
 
